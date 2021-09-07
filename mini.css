@@ -1,0 +1,92 @@
+#landing {
+    display: flex;
+    height: 100%;
+    background: #fff;
+}
+
+div {
+    display: block;
+}
+
+
+
+
+.btn {
+    padding: 1rem 3rem;
+    padding: 0.5rem 2rem;
+    border: 1px #ccc solid;
+    display: inline-block;
+    margin: 2rem 0 0;
+    border-radius: 50px;
+    text-decoration: black;
+    color:#333;
+    transition: background 500ms ease;
+    background-color: blueviolet;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    background: #eee;
+    height: auto;
+}
+
+#landing-text{
+   
+    display: flex;
+    flex: 0 1 40vw;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+#landing-text{
+    background-image: url('https://i.pinimg.com/originals/b6/b2/e7/b6b2e7da4fb21ed0a49908d1cd7aa31e.jpg');
+    background-size: cover;
+    height: 120vh;
+    background-position: center;
+    opacity: 1;
+    color: #333;
+    
+    
+
+}
+
+#landing-image {
+    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/74874938-a3ba-40df-9a52-43c5b45734ec/dditbfp-f40ac803-c298-403d-b8a8-b2d3453a39a2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc0ODc0OTM4LWEzYmEtNDBkZi05YTUyLTQzYzViNDU3MzRlY1wvZGRpdGJmcC1mNDBhYzgwMy1jMjk4LTQwM2QtYjhhOC1iMmQzNDUzYTM5YTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z1EJRGhAtMVhi0PEeGV39qFozZiX7sSpbSCUCLrpaUU);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 120vh;
+    flex: 0 1 60vw;
+    margin: 0;
+}
+
+main {
+    max-width: 900px;
+    margin: auto;
+    display: block;
+    box-shadow: 30px 0px 40px rgb(0 0 0 / 10%), -30px 0px 40px rgb(0 0 0 / 10%);
+}
+
+footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin: auto;
+    color: #333;
+    display: block;
+}
+h3{
+    text-align: center;
+}
+#header{
+    padding: 0.3px;
+    text-align: center;
+    background: #333;
+    color: #fff;
+    text-align: center;
+}
+
