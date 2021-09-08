@@ -1,11 +1,13 @@
 # BTS INFO PAGE
 
-It is information page of a Boy Band "BTS". Their members, their song genre, their tours and albums.
+It is an information page of a Boy Band "BTS".
+Members,song genre,tours and albums.
 
 
 ## Gallery:
 
 ![Image of gallery](https://github.com/zehrakhan11/NS/blob/main/Capture.PNG)
+
 
 
 ## BAND:
