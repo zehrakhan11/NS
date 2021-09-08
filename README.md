@@ -1,2 +1,2 @@
 BTS Info Page
-![Image of Yaktocat](https://octodex.github.com/NS/capture.png)
+![Image of gallery](https://octodex.github.com/NS/capture.png)
